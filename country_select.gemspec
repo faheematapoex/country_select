@@ -30,5 +30,5 @@ Gem::Specification.new do |s|
   # that supports Bundler `platform` directive for rbx support in travis-ci
   #s.add_development_dependency 'appraisal'
   s.add_development_dependency 'pry', '~> 0'
-  s.add_dependency 'countries', '0.9.3'
+  # s.add_dependency 'countries', '0.9.3'
 end
