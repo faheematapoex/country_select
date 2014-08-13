@@ -24,5 +24,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'appraisal', '~> 1.0', '>= 1.0.0'
   s.add_development_dependency 'pry', '~> 0'
 
-  s.add_dependency 'countries', '~> 0.9', '>= 0.9.3'
+  # s.add_dependency 'countries', '~> 0.9', '>= 0.9.3'
 end
